@@ -17,4 +17,4 @@ I love tackling new challenges 💪 exploring innovative technologies 🌐 and d
   src="http://github-stats-nine-eta.vercel.app/api?username=realkoder&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true" 
 />
 
-![Top Langs](https://github-stats-nine-eta.vercel.app/api/top-langs/?username=realkoder&langs_count=5&include_all_commits=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-stats-nine-eta.vercel.app/api/top-langs/?username=realkoder&include_all_commits=true&theme=dracula&hide_border=true)
