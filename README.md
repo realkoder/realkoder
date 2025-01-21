@@ -2,9 +2,11 @@
 
 I'm a Copenhagen-based junior full-stack developer with a strong focus on backend excellence. Currently pursuing a Bachelor’s Degree in Software Development 🎓
 
+
 <br>
 
-I'm also working on IntelliOptima, an all-in-one AI platform. 🌟
+
+I'm also working on [IntelliOptima](https://intellioptima.com), an all-in-one AI platform. 🌟
 
 ### Skills:
 - **Languages**: Java, JavaScript, Python 💻
