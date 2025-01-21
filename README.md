@@ -11,6 +11,6 @@ I love tackling new challenges 💪 exploring innovative technologies 🌐 and d
 
 <hr>
 
-<img alt="Realkoder's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=realkoder&show_icons=true&theme=tokyonight"/>
+<img alt="Realkoder's GitHub stats" src="https://github-stats-nine-eta.vercel.app/api?username=realkoder&show_icons=true&theme=tokyonight"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkoder)](https://github.com/realkoder/github-readme-stats)
+[![Top Langs](https://github-stats-nine-eta.vercel.app/api/top-langs/?username=realkoder)](https://github.com/realkoder/github-readme-stats)
