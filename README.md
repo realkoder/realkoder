@@ -1,16 +1,15 @@
-## Hi there 👋
+## `HELLO WORLD` I'm Alexander, aka realkoder xD 👋
 
-<!--
-**realkoder/realkoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Copenhagen-based junior full-stack developer with a strong focus on backend excellence. Currently pursuing a Bachelor’s Degree in Software Development 🎓
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also working on IntelliOptima, an all-in-one AI platform. 🌟
+
+### Skills:
+- **Languages**: Java, JavaScript, Python 💻
+- **Frameworks**: Spring Boot, Node.js, React ⚙️
+- **Databases**: MySQL, MongoDB 📊
+
+### Passion:
+I love tackling new challenges 💪, exploring innovative technologies 🌐, and delivering high-quality solutions that meet customer needs. Let's build something great together! 🚀✨
