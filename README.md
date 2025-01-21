@@ -4,7 +4,7 @@ I'm a Copenhagen-based junior full-stack developer with a strong focus on backen
 
 I'm also working on [IntelliOptima](https://intellioptima.com), an all-in-one AI platform. 🌟
 
-### Passion:
+### Passion
 I love tackling new challenges 💪 exploring innovative technologies 🌐 and delivering high-quality solutions that meet customer needs. Let's build something great together! 🚀✨
 
 <br>
